@@ -42,7 +42,7 @@
     "processedHistoryMessages": [
       {
         "key": {
-          "remoteJid": "15082758882@s.whatsapp.net",
+          "remoteJid": "393755950457@s.whatsapp.net",
           "fromMe": true,
           "id": "3A470A3436EF3FCC9572"
         },
@@ -50,7 +50,7 @@
       },
       {
         "key": {
-          "remoteJid": "15082758882@s.whatsapp.net",
+          "remoteJid": "393755950457@s.whatsapp.net",
           "fromMe": true,
           "id": "3A0608BE2E5905E2C8D2"
         },
@@ -58,7 +58,7 @@
       },
       {
         "key": {
-          "remoteJid": "15082758882@s.whatsapp.net",
+          "remoteJid": "393755950457@s.whatsapp.net",
           "fromMe": true,
           "id": "3A319D7578B1EC7EE457"
         },
@@ -76,13 +76,13 @@
       "deviceSignature": "5XoHXFLjZprnebojLeriOzfNECqRD6l0mWZuy3IVm9xWHgKsAaGPb56/mAHjwrekBxjI6kLp9WCndMxhyO2DhA=="
     },
     "me": {
-      "id": "15082758882:8@s.whatsapp.net",
-      "name": "Dark Bot | Gabbux"
+      "id": "393755950457:8@s.whatsapp.net",
+      "name": "GABBUX BOT | Gabbux"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "15082758882:8@s.whatsapp.net",
+          "name": "393755950457:8@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
