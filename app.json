@@ -1,29 +1,29 @@
 {
-  "name": "⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜",
+  "name": "⚜️GABBUX BOT 𝘔𝘋⚜",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/zim-bot/zimbot-v2",
-  "logo": "https://i.ibb.co/Rg9YpBF/IMG-20221010-WA0039.jpg",
+  "repository": "https://github.com/itsgabbux/DARK-NERO/",
+  "logo": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a1498d29-a44c-4252-8d22-f07db9603808/d7i7pry-eb61add5-9909-457d-b74d-4245865c9634.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ExNDk4ZDI5LWE0NGMtNDI1Mi04ZDIyLWYwN2RiOTYwMzgwOFwvZDdpN3ByeS1lYjYxYWRkNS05OTA5LTQ1N2QtYjc0ZC00MjQ1ODY1Yzk2MzQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ebmlHGf6kRlA_RMybpEXBlQukY9dKY1u6l1kpPjB6hs",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
    "env": {
   
- "OWNER_NAME" :{
-    "description" : "enter you name",
+ "OWNER_NAME" : {
+    "description" : "GABBUX",
     "required" : true,
-  "value" : "KAVEESHA "
+  "value" : "GABBUX "
     },
     
      
      
 "ALIVE_MSG" :{
-    "description" : "enter you msg",
+    "description" : "IM ALIVE! GABBUX BOT",
     "required" : true,
-  "value" : "HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖"
+  "value" : "HI I'M  ⚜️GABBUX BOT"
     },
      
      "ALIVE_LOGO" :{
     "description" : "you logo key",
     "required" : true,
-  "value" : "https://i.ibb.co/2d6vv85/Whats-App-Image-2022-09-26-at-07-59-53.jpg"
+  "value" : "https://i.pinimg.com/736x/d7/e8/11/d7e8119d96958c1d4c22a9a6461a4c75.jpg"
     }
    },
      
